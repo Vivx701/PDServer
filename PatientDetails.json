@@ -1,0 +1,84 @@
+{
+
+    "patients": [
+
+        {
+            "id":1,
+            "name":{  "firstname":"Romin",
+                      "middlename": "",
+                      "lastname":"Irani"
+                    },
+            "age": 30,
+            "gender": 1,
+            "location": "America",
+            "contactdetails": {
+                                "phonenumber":"408-1234567",
+                                "emailaddress":"romin.k.irani@gmail.com"
+                              } 
+        },
+        {
+            "id":2,
+            "name":{  "firstname":"Neil",
+                      "middlename": "",
+                      "lastname":"Irani"
+                    },
+            "age": 25,
+            "gender": 2,
+            "location": "USA",
+            "contactdetails": {
+                                "phonenumber":"408-1111111",
+                                "emailaddress":"neilrirani@gmail.com"
+                              } 
+        },
+
+        {
+            "id":3,
+            "name":{  
+                        "firstname":"Tom",
+                        "middlename": "",
+                        "lastname":"Hanks"
+                    },
+            "age": 60,
+            "gender": 1,
+            "location": "Brazil",
+            "contactdetails": {
+                                "phonenumber":"408-2222222",
+                                "emailaddress":"tomhanks@gmail.com"
+                              } 
+        },
+
+        {
+            "id":4,
+            "name":{  
+                        "firstname":"Stephen",
+                        "middlename": "John",
+                        "lastname":"Fleming"
+                    },
+            "age": 20,
+            "gender": 1,
+            "location": "India",
+            "contactdetails": {
+                                "phonenumber":"408-54678149",
+                                "emailaddress":"steve@gmail.com"
+                              } 
+        },
+        
+        {
+            "id":5,
+            "name":{  
+                        "firstname":"Maria",
+                        "middlename": "Alan",
+                        "lastname":"Fedrick"
+                    },
+            "age": 30,
+            "gender": 2,
+            "location": "Srilanka",
+            "contactdetails": {
+                                "phonenumber":"408-986234567",
+                                "emailaddress":"maria_alan@yahoo.com"
+                              } 
+        }
+
+    ]
+
+}
